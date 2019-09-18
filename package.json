@@ -1,0 +1,23 @@
+{
+  "name": "apirestgoalsystems",
+  "version": "1.0.0",
+  "description": "This is an example of ApiRest using Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afrojasp/ApiRestGoalSystems.git"
+  },
+  "author": "Andres Rojas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afrojasp/ApiRestGoalSystems/issues"
+  },
+  "homepage": "https://github.com/afrojasp/ApiRestGoalSystems#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1"
+  }
+}
